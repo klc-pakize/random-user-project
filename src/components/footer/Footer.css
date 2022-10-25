@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Semi+Condensed&display=swap");
+.footer-div {
+  width: 80vw;
+  min-width: 400px;
+  background-color: White;
+  font-size: 2.5rem;
+  border: 0.5px solid #07057e;
+  border-radius: 5px;
+  margin: 101px 0px;
+  height: 50x;
+  display: flex;
+  justify-content: center;
+}
+
+.brand {
+  font-family: "Encode Sans Semi Condensed", sans-serif;
+  color: #14142f;
+  /* font-weight: bold; */
+  font-style: italic;
+  margin-right: 1.5rem;
+}
