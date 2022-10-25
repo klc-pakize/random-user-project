@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/random-user-project/static/css/main.2ee233ce.css",
+    "main.js": "/random-user-project/static/js/main.b4e8b14e.js",
+    "static/media/ee.png": "/random-user-project/static/media/ee.89d5a587907bed880a82.png",
+    "static/media/cc.png": "/random-user-project/static/media/cc.84f7e120ad79ad0167e0.png",
+    "static/media/Oxford-University-Circlet.svg.png": "/random-user-project/static/media/Oxford-University-Circlet.svg.f2b2d33f60e9ad3ee88c.png",
+    "static/media/unnamed.jpg": "/random-user-project/static/media/unnamed.4482631aa6868a4d2f19.jpg",
+    "static/media/aa.png": "/random-user-project/static/media/aa.840022de0e0a9a647583.png",
+    "static/media/pp.png": "/random-user-project/static/media/pp.da178efa404cda893ebe.png",
+    "static/media/nn.png": "/random-user-project/static/media/nn.881cb8fa988866a280b0.png",
+    "static/media/ss.png": "/random-user-project/static/media/ss.47b6144b51a3576d2165.png",
+    "index.html": "/random-user-project/index.html",
+    "main.2ee233ce.css.map": "/random-user-project/static/css/main.2ee233ce.css.map",
+    "main.b4e8b14e.js.map": "/random-user-project/static/js/main.b4e8b14e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ee233ce.css",
+    "static/js/main.b4e8b14e.js"
+  ]
+}
